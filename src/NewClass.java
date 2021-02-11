@@ -1,8 +1,8 @@
 public class NewClass{
-    protected String accountId;
-    protected double accountBalance;
-    protected double interestRate;
-    protected String accountName;
+    public String accountId;
+    public double accountBalance;
+    public double interestRate;
+    public String accountName;
 
     public NewClass(){
         this.accountName = "New Account";
